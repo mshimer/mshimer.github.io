@@ -1,0 +1,124 @@
+baseURL = "https://mshimer.github.io/"
+theme = "LoveIt"
+
+languageCode = "en"
+languageName = "English"
+title = "Mike Shimer"
+
+copyright = "Mike Shimer"
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = false
+
+[pagination]
+  pagerSize = 10
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+  [[menu.main]]
+    weight = 2
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+  [[menu.main]]
+    weight = 3
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+
+[params]
+  defaultTheme = "auto"
+  title = "Mike Shimer"
+  description = "Mike's Tech Blog"
+  images = []
+
+  [params.author]
+    name = "Mike Shimer"
+    email = ""
+    link = "https://github.com/mshimer"
+
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    [params.header.title]
+      name = "Mike Shimer"
+      typeit = false
+
+  [params.footer]
+    enable = true
+    hugo = false
+    copyright = true
+    author = true
+    since = 2026
+
+  # Fuse.js client-side search, no external service needed
+  [params.search]
+    enable = true
+    type = "fuse"
+    contentLength = 4000
+    maxResultLength = 10
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      # Put an image under static/images/ and point avatarURL at it, e.g. "/images/avatar.jpg"
+      avatarURL = ""
+      title = "Welcome to my blog"
+      subtitle = "Replace this with a short intro about you."
+      typeit = false
+      social = true
+    [params.home.posts]
+      enable = true
+      paginate = 6
+
+  [params.social]
+    GitHub = "mshimer"
+    Linkedin = "mikeshimer"
+    # Email = ""
+    RSS = "true"
+
+  [params.page]
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+    [params.page.code]
+      copy = true
+      maxShownLines = 50
+    # Comments are off until a provider is configured (giscus needs repoId/categoryId from https://giscus.app)
+    [params.page.comment]
+      enable = false
+      [params.page.comment.giscus]
+        enable = false
+        repo = "mshimer/mshimer.github.io"
+        repoId = ""
+        category = "Comments"
+        categoryId = ""
+        mapping = "pathname"
+        reactionsEnabled = "1"
+        inputPosition = "bottom"
+        lightTheme = "light"
+        darkTheme = "dark"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
