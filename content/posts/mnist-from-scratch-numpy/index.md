@@ -10,7 +10,7 @@ math:
 
 I use AI tools every day, and I wanted to really understand what's happening underneath them. So I did the classic exercise: train a neural network to recognize handwritten digits using only NumPy. No PyTorch, no TensorFlow, no autograd. Every gradient is worked out by hand.  
 
-I built it at home on a macbook and it got to **97% accuracy** on digits it had never seen.
+I built it at home on a macbook and it got to 97% accuracy on digits it had never seen.
 
 The code is on GitHub: [mshimer/mike-mnist](https://github.com/mshimer/mike-mnist).
 
