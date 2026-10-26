@@ -68,7 +68,7 @@ enableGitInfo = false
       # Put an image under static/images/ and point avatarURL at it, e.g. "/images/avatar.jpg"
       avatarURL = ""
       title = "Welcome to my blog"
-      subtitle = "Replace this with a short intro about you."
+      subtitle = "Musings on software engineering and AI"
       typeit = false
       social = true
     [params.home.posts]
