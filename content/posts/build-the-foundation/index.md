@@ -1,7 +1,7 @@
 ---
 title: "Ignore the Crowd. Build the Foundation."
 date: 2026-11-01
-draft: true
+draft: false
 tags: ["career", "ai", "fundamentals", "learning"]
 description: "AI lets you produce 10x more code. That doesn't shrink the need for fundamentals - it multiplies it."
 ---
