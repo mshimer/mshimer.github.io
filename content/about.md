@@ -8,8 +8,18 @@ hiddenFromHomePage: true
 
 ## Allow myself to introduce myself...
 
-I've worked in tech for 20+ years - mostly in FinTech.  I worked in AI developing distributed training systems at Sentient Technologies, unfortunatly before AI was the hottness that it is now.
+I've worked in tech for 20+ years - mostly in FinTech in and around San Francisco.
 
-Over the past couple years (2024-2026) I've gone all-in on generative AI assisted development.  
+I like to build stuff
 
-My main interests are fintech and AI related engineering.  Outside of tech, I have 2 kids and reside in the DFW burbs.  We relocated from SF a few years ago to provide our kids a nice family- and kid-centric environment to grow up.  
+I like to teach
+
+I like to build stuff that teaches
+
+I like to teach stuff that helps people build
+
+
+
+![say-anything.webp](../static/images/say-anything.webp)
+
+

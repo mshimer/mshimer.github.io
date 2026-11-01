@@ -1,3 +1,3 @@
 ## Mike's Tech Blog
 
-musings on tech topics
+musings on tech topics n stuff
