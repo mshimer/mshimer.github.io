@@ -20,6 +20,6 @@ I like to teach stuff that helps people build
 
 
 
-![say-anything.webp](../static/images/say-anything.webp)
+![say-anything.webp](/images/say-anything.webp)
 
 
