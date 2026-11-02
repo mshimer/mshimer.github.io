@@ -42,7 +42,7 @@ You do.
 
 Its name is Claude.
 
-Use it as your personal advisor to learn new skills. Ask it why, not just what. Have it explain the internals. Have it review your design and tell you what breaks first.
+Use it as your personal advisor to learn new skills. Ask it why, not just what. Have it explain the internals. 
 
 ## Keep your eye on the ball
 
