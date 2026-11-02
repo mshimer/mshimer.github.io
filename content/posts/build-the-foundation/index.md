@@ -6,11 +6,11 @@ tags: ["career", "ai", "fundamentals", "learning"]
 description: "AI lets you produce 10x more code. That doesn't shrink the need for fundamentals - it multiplies it."
 ---
 
-When people say coding doesn't matter anymore - <mark>do more coding</mark>.
+When people say coding doesn't matter anymore - **do more coding**.
 
-When people say "you don't need to understand the internals" - <mark>build an LLM</mark>.
+When people say "you don't need to understand the internals" - **build an LLM**.
 
-When people say design doesn't matter anymore - <mark>learn more about design</mark>.
+When people say design doesn't matter anymore - **learn more about design**.
 
 <!--more-->
 
