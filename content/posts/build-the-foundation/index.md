@@ -1,5 +1,5 @@
 ---
-title: "Ignore the Crowd. Build the Foundation."
+title: "Do the opposite."
 date: 2026-11-01
 draft: false
 tags: ["career", "ai", "fundamentals", "learning"]
@@ -40,14 +40,16 @@ Guess what?
 
 You do.
 
-Its name is Claude.
+His name is Claude.
 
-Use it as your personal advisor to learn new skills. Ask it why, not just what. Have it explain the internals. 
+Use him as your personal advisor to learn new skills. Ask him why, not just what. Have him explain the internals. 
 
 ## Keep your eye on the ball
 
 It's very easy to lose focus in the wild west explosion of AI we are part of right now.
 
-Ignore the crowd.
+Ignore the noise.
+
+Find the signal.
 
 Build the foundation.

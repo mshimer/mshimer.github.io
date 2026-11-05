@@ -6,19 +6,15 @@ description: "About Mike Shimer"
 hiddenFromHomePage: true
 ---
 
-## Allow myself to introduce myself...
+## Introducing myself
 
 I've worked in tech for 20+ years - mostly in FinTech in and around San Francisco.
 
-I like to build stuff
+I enjoy building
 
-I like to teach
+I enjoy teaching
 
-I like to build stuff that teaches
-
-I like to teach stuff that helps people build
-
-
+I enjoy simplifying things
 
 ![say-anything.webp](/images/say-anything.webp)
 
