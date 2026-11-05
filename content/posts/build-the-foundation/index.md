@@ -1,5 +1,5 @@
 ---
-title: "Do the opposite."
+title: "Do the opposite"
 date: 2026-11-01
 draft: false
 tags: ["career", "ai", "fundamentals", "learning"]
